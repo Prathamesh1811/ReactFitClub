@@ -1,7 +1,7 @@
 import React from 'react'
 import "./Testimonials.css"
 import {testimonialsData} from "../../data/testimonialsData";
-import { useEffect, useState } from "react";
+import {useState} from "react";
 import leftArrow from "../../assets/leftArrow.png";
 import rightArrow from "../../assets/rightArrow.png";
 import {motion} from 'framer-motion'
